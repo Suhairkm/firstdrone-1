@@ -1,6 +1,6 @@
 #Drone CI File!
 #Commit Message: Drone!
-# This line is added to trigger build.
+
 
 kind: pipeline
 type: kubernetes
